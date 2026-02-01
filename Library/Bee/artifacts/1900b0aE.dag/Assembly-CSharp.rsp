@@ -351,6 +351,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Code/Acceleration.cs"
+"Assets/Code/Enemy.cs"
+"Assets/Code/Player.cs"
 "Assets/Code/SceneChange.cs"
 "Assets/Code/Tp.cs"
 "Assets/Code/Trampy.cs"
